@@ -1,0 +1,132 @@
+{
+    "name": "RA Göteborg (Light)",
+    "style": "light",
+    "author": [
+        {
+            "name": "RedArcadia",
+            "comment": "Hey fellow zettler! May you be happy and live with ease.",
+	    "Inspirations": "atom.io website an gruvbox"
+
+
+        }
+    ],
+    "version": "1.0",
+
+
+    "editor": {
+        "backgroundColor": "#f2f2f2",
+        "caretColor": "#FA8E8C",
+        "selection": {
+            "backgroundColor": "#E5DBC9",
+            "unfocusedBackgroundColor": "#ede7df"
+        },
+        "highlight": {
+            "backgroundColor": "#dddddd",
+            "unfocusedBackgroundColor": "#36232e"
+        }
+    },
+    
+    "savedSearchesSidebar": {
+        "color": "#f7f7f7",
+        "backgroundColor": "#626d80",
+        "highlightedBackgroundColor": "#FA8E8C",
+        "border": false,
+        "iconColors": {
+            "default": "#f7f7f7"
+        }
+    },
+    
+    "resultsList": {
+        "color": "#7E6E68",
+        "backgroundColor": "#f7f7f7",
+        "alternateBackgroundColor": "#343334",
+        "selection": {
+            "color": "#f2f2f2",
+            "backgroundColor": "#626d80",
+            "unfocusedColor": "#7E6E68",
+            "unfocusedBackgroundColor": "#ede7df"
+        },
+        "border": false,
+    },
+
+    "styles": {
+        "base": {
+            "color": "#828EA3",
+        },
+
+        "h1": {
+
+	    "backgroundColor": "#ede7df",   
+	    "color": "#7E6E68"
+
+
+        },
+        "h2": {
+	    "backgroundColor": "#ede7df",   
+	    "color": "#7E6E68"
+        },
+        "h3": {
+	    "backgroundColor": "#ede7df",   
+	    "color": "#7E6E68"
+        },
+        "h4": {
+	    "backgroundColor": "#ede7df",   
+	    "color": "#7E6E68"
+        },
+        "h5": {
+	    "backgroundColor": "#ede7df",   
+	    "color": "#7E6E68"
+        },
+        "h6": {
+	    "backgroundColor": "#ede7df",   
+	    "color": "#7E6E68"
+        },
+        
+        "horizontalRule": {
+            "color": "#ccc1ad"
+        },
+
+        "codeBlock": {
+            "color": "#ccc1ad"
+        },
+        "inlineCode": {
+            "color": "#ccc1ad"
+        },
+
+        "blockquote": {
+            "color": "#C2AD98",
+
+        },
+        "list": {
+            "syntax": { "color" : "#ccc1ad" }
+        },
+
+        "emphasis": {
+            "font": { "style": "italic" },
+		      "color": "#FA8E8C"
+        },
+        "strong": {
+            "font": { "style": "bold" },
+	    "color": "#626d80"
+        },
+
+        "image": {
+            "color": "#FA8E8C"
+        },
+        "footnote": {
+            "color": "#FA8E8C"
+        },
+        "link": {
+            "color": "#9EC7EC"
+        },
+        "referenceDefinition": {
+            "color": "#ccc1ad"
+        },
+
+        "comment": {
+            "color": "#ccc1ad",
+            "font": { "style": "regular" }
+        }
+    }
+}
+

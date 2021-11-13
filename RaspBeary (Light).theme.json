@@ -1,0 +1,128 @@
+{
+    "name": "RaspBeary (Light)",
+    "style": "Light",
+    "author": [
+        {
+            "name": "Ken Papp",
+            "comment": "Based upon the unique, default Bear app theme. For better results, set The Archive's font to a variable-width font of choice. For best results, download Apple's San Francisco font (https://developer.apple.com/fonts/) and set The Archive's font to 'SFProText-Regular'. Last updated: 17 May 2019."
+        }
+    ],
+    "version": "1.0",
+
+    "editor": {
+        "backgroundColor": "#FBFBFB",
+        "caretColor": "#DD4C4F",
+        "highlight": {
+            "backgroundColor": "#F7E81C",
+            "unfocusedBackgroundColor": "#F7E81C"
+        }
+    },
+    
+    "savedSearchesSidebar": {
+        "color": "#CFCFCF",
+        "border": false,
+        "backgroundColor": "#414747",
+        "highlightedBackgroundColor": "#DD4C4F",
+        "iconColors": {
+            "default": "#CFCFCF"
+        }
+    },
+
+    "resultsList": {
+        "color": "#CFCFCF",
+        "alternateBackgroundColorColor": "#2E3235",
+        "alternateBackgroundColor": "#414747",
+        "selection": {
+            "color": "#FFFFFF",
+            "backgroundColor": "#DD4C4F",
+            "unfocusedColor": "#FFFFFF",
+            "unfocusedBackgroundColor": "#A04F51"
+       
+        },
+        "font": { 
+        "name": "Menlo-Regular" , 
+        "size": 22 
+        },
+    },
+    "styles": {
+        "base": {
+            "color": "#424242"
+        },
+
+        "h1": {
+            "font": { "name": "SFProText-Medium", "size": 30 },
+	    "syntax": { "color" : "#DBDBDB" }
+        },
+        "h2": {
+            "font": { "name": "SFProText-Medium", "size": 26 },
+            "syntax": { "color" : "#DBDBDB" }
+        },
+        "h3": {
+            "font": { "name": "SFProText-Medium", "size": 22 },
+            "syntax": { "color" : "#DBDBDB" }
+        },
+        "h4": {
+            "font": {  "style": "bold" },
+            "syntax": { "color" : "#DBDBDB" }
+        },
+        "h5": {
+            "font": {  "style": "bold" },
+            "syntax": { "color" : "#DBDBDB" }
+        },
+        "h6": {
+            "font": {  "style": "bold" },
+            "syntax": { "color" : "#DBDBDB" }
+        },
+        
+        "horizontalRule": {
+            "color": "#CBCBCB"
+        },
+
+        "codeBlock": {
+            "font": { "name": "Menlo-Regular", "size": 16 },
+            "color": "#545454",
+            "backgroundColor": "#FFFFFF"
+        },
+        "inlineCode": {
+            "font": { "name": "Menlo-Regular", "size": 16 },
+            "color": "#545454",
+            "backgroundColor": "#FFFFFF"
+        },
+        "blockquote": {
+            "color": "#818181",
+            "backgroundColor": ""
+        },
+        "list": {
+            "syntax": { "color" : "#D6555F" }
+        },
+
+        "emphasis": {
+            "color": "#000000",
+            "font": {  "style": "italic" }
+        },
+        "strong": {
+            "color": "#222222",
+            "backgroundColor": "#D3FFA4"
+        },
+
+        "image": {
+            "color": "#DD4C4F"
+        },
+        "link": {
+            "color": "#DD4C4F",
+            "syntax": { "color" : "#DBDBDB" }
+        },
+        "referenceDefinition": {
+            "color": "#DD4C4F"
+        },
+
+        "comment": {
+            "color": "#818181",
+            "font": {  "style": "regular" }
+        },
+        
+        "footnote": {
+            "color": "#818181"
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "name": "RA Harz (Dark)",
+    "style": "Dark",
+    "author": [
+        {
+            "name": "RedArcadia",
+            "comment": "Hey fellow zettler! May you be happy and live with ease.",
+	    "Inspirations": "atom.io website an gruvbox"
+
+        }
+    ],
+    "version": "1.0",
+
+
+    "editor": {
+        "backgroundColor": "#343334",
+        "caretColor": "#BAB838",
+        "selection": {
+            "backgroundColor": "#AB866A",
+            "unfocusedBackgroundColor": "#B8AFA5"
+        },
+        "highlight": {
+            "backgroundColor": "#dddddd",
+            "unfocusedBackgroundColor": "#36232e"
+        }
+    },
+    
+    "savedSearchesSidebar": {
+        "color": "#F0D9BB",
+        "backgroundColor": "#2C2A2B",
+        "highlightedBackgroundColor": "#C13E23",
+        "border": false,
+        "iconColors": {
+            "default": "#C13E23"
+        }
+    },
+    
+    "resultsList": {
+        "color": "#F0D9BB",
+        "backgroundColor": "#2C2A2B",
+        "alternateBackgroundColor": "#343334",
+        "selection": {
+            "color": "#F0D9BB",
+            "backgroundColor": "#C13E23",
+            "unfocusedColor": "#F0D9BB",
+            "unfocusedBackgroundColor": "#d97630"
+        },
+        "border": false,
+    },
+
+    "styles": {
+        "base": {
+            "color": "#F0D9BB",
+        },
+
+        "h1": {
+            "font": { "style": "bold" },
+	    "backgroundColor": "#2C2A2B",   
+	    "color": "#91c9b9"
+
+
+        },
+        "h2": {
+            "font": { "style": "bold" },
+	    "backgroundColor": "#2C2A2B",   
+	    "color": "#91c9b9"  
+        },
+        "h3": {
+            "font": { "style": "bold" },
+	    "color": "#91c9b9"  
+        },
+        "h4": {
+            "font": { "style": "bold" },
+	    "color": "#91c9b9"  
+        },
+        "h5": {
+            "font": { "style": "bold" },
+	   	"color": "#91c9b9"  
+        },
+        "h6": {
+            "font": { "style": "bold" },
+	    "color": "#91c9b9"  
+        },
+        
+        "horizontalRule": {
+            "color": "#DE9E3C"
+        },
+
+        "codeBlock": {
+            "color": "#DE9E3C"
+        },
+        "inlineCode": {
+            "color": "#DE9E3C"
+        },
+
+        "blockquote": {
+            "color": "#A99885",
+ 	    "backgroundColor": "#3D3A3A", 
+
+
+        },
+        "list": {
+            "syntax": { "color" : "#DE9E3C" }
+        },
+
+        "emphasis": {
+            "font": { "style": "italic" },
+		      "color": "#BAB838"
+        },
+        "strong": {
+            "font": { "style": "bold" },
+	    "color": "#C13E23"
+        },
+
+        "image": {
+            "color": "#BAB838"
+        },
+        "footnote": {
+            "color": "#BAB838"
+        },
+        "link": {
+            "color": "#d97630"
+        },
+        "referenceDefinition": {
+            "color": "#DE9E3C"
+        },
+
+        "comment": {
+            "color": "#DE9E3C",
+            "font": { "style": "regular" }
+        }
+    }
+}
+

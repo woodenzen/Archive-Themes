@@ -1,0 +1,256 @@
+{
+	"name": "BENWF",
+	"style": "Light",
+	"version": "1.0",
+	"author": [
+		{
+			"name": "BW",
+			"url": "https://ben.wf"
+        }
+    ],
+	"editor":
+	{
+		"backgroundColor": "#F7F7F7",
+		"caretColor": "#C0522A",
+		"color": "#1A1A1A",
+		"highlight":
+		{
+			"backgroundColor": "#CCCCCC",
+			"unfocusedBackgroundColor": "#CCCCCC"
+		},
+		"selection":
+		{
+			"backgroundColor": "#CCCCCC",
+			"unfocusedBackgroundColor": "#CCCCCC"
+		}
+	},
+	"savedSearchesSidebar":
+	{
+		"backgroundColor": "#F7F7F7",
+		"border": "#CCCCCC",
+		"color": "#CCCCCC",
+		"highlightedBackgroundColor": "#C0522A",
+		"iconColors":
+		{
+			"default": "#444444"
+		}
+	},
+	"resultsList":
+	{
+		"alternateBackgroundColor": "#EEEEEE",
+		"backgroundColor": "#F7F7F7",
+		"border": "#CCCCCC",
+		"font":
+		{
+			"indent":
+			{
+				"characters": 2
+			},
+			"name": "iA Writer Quattro V"
+		},
+		"selection":
+		{
+			"backgroundColor": "#C0522A",
+			"color": "#F7F7F7",
+			"unfocusedBackgroundColor": "#CCCCCC",
+			"unfocusedColor": "#1A1A1A"
+		},
+	},
+	"styles":
+	{
+		"base":
+		{
+			"color": "#1A1A1A"
+		},
+		"blockquote":
+		{
+			"color": "#1A1A1A",
+			"font":
+			{
+				"style": "italic"
+			},
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"codeBlock":
+		{
+			"backgroundColor": "#1A1A1A",
+			"color": "#F7F7F7",
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"comment":
+		{
+			"color": "#1A1A1A",
+			"font":
+			{
+				"style": "regular"
+			},
+		},
+		"emphasis":
+		{
+			"color": "#1A1A1A",
+			"font":
+			{
+				"style": "italic"
+			},
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"footnote":
+		{
+			"color": "#1A1A1A",
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"h1":
+		{
+			"color": "#1A1A1A",
+			"font":
+			{
+				"style": "bold"
+			},
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"h2":
+		{
+			"color": "#1A1A1A",
+			"font":
+			{
+				"style": "bold"
+			},
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"h3":
+		{
+			"color": "#1A1A1A",
+			"font":
+			{
+				"style": "bold"
+			},
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"h4":
+		{
+			"color": "#1A1A1A",
+			"font":
+			{
+				"style": "bold"
+			},
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"h5":
+		{
+			"color": "#1A1A1A",
+			"font":
+			{
+				"style": "bold"
+			},
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"h6":
+		{
+			"color": "#1A1A1A",
+			"font":
+			{
+				"style": "bold"
+			},
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"header":
+		{
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"horizontalRule":
+		{
+			"color": "#444444"
+		},
+		"image":
+		{
+			"color": "#1A1A1A",
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"inlineCode":
+		{
+			"color": "#1A1A1A",
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"link":
+		{
+			"color": "#1A1A1A",
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"list":
+		{
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"referenceDefinition":
+		{
+			"color": "#1A1A1A",
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"strong":
+		{
+			"color": "#1A1A1A",
+			"font":
+			{
+				"style": "bold"
+			},
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		},
+		"table":
+		{
+			"syntax":
+			{
+				"color": "#C0522A"
+			}
+		}
+	}
+}

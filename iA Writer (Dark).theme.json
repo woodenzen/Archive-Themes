@@ -1,0 +1,116 @@
+{
+    "name": "Writer",
+    "style": "Dark",
+    "author": [
+        {
+            "name": "Lorenzo",
+            "url": "https://trms.me"
+        }
+    ],
+    "version": "1.0",
+
+    "editor": {
+        "backgroundColor": "#1A1A1A",
+        "caretColor": "#16BDEC",
+        "selection": {
+            "backgroundColor": "#1B424E",
+            "unfocusedBackgroundColor": "#d2d9e1"
+        },
+        "highlight": {
+            "backgroundColor": "#dddddd",
+            "unfocusedBackgroundColor": "#252425"
+        }
+    },
+    
+    "savedSearchesSidebar": {
+        "color": "#16BDEC",
+        "backgroundColor": "#141414",
+        "highlightedBackgroundColor": "#1A1A1A",
+        "border": false,
+        "iconColors": {
+            "default": "#16BDEC"
+        }
+    },
+    
+    "resultsList": {
+        "color": "#B9B9B9",
+        "backgroundColor": "#141414",
+        "alternateBackgroundColor": "#1A1A1A",
+        "selection": {
+            "color": "#CCCCCC",
+            "backgroundColor": "#1B424E",
+            "unfocusedColor": "#CCCCCC",
+            "unfocusedBackgroundColor": "#2F2E2F"
+        },
+        "border": "#000000",
+    },
+
+    "styles": {
+        "base": {
+            "color": "#CCCCCC",
+            "font-family":"iA Writer Quattro V, sans-serif"
+        },
+
+        "h1": {
+            "font": { "style": "bold" }
+        },
+        "h2": {
+            "font": { "style": "bold" }
+        },
+        "h3": {
+            "font": { "style": "bold" }
+        },
+        "h4": {
+            "font": { "style": "bold" }
+        },
+        "h5": {
+            "font": { "style": "bold" }
+        },
+        "h6": {
+            "font": { "style": "bold" }
+        },
+        
+        "horizontalRule": {
+            "color": "#707070"
+        },
+
+        "codeBlock": {
+            "color": "#707070"
+        },
+        "inlineCode": {
+            "color": "#707070"
+        },
+
+        "blockquote": {
+            "color": "#707070"
+        },
+        "list": {
+            "syntax": { "color" : "#cccccc" }
+        },
+
+        "emphasis": {
+            "font": { "style": "italic" }
+        },
+        "strong": {
+            "font": { "style": "bold" }
+        },
+
+        "image": {
+            "color": "#707070"
+        },
+        "footnote": {
+            "color": "#707070"
+        },
+        "link": {
+            "color": "#707070"
+        },
+        "referenceDefinition": {
+            "color": "#707070"
+        },
+
+        "comment": {
+            "color": "#707070",
+            "font": { "style": "regular" }
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "name": "PrettyFunctional (Regular)",
+    "style": "Light",
+    "author": [
+        {
+            "name": "NSSynapse (Basil)",
+            "comment": "For better results, set The Archive's font to 'HelveticaNeue, 13pt' or another variable-width font of choice. For best results, download Apple's San Francisco font and set The Archive's font to 'SFProText-Regular, 13pt'. This theme does not yet get updated via The Archive's Theme Updater, but whenever you see an update for PrettyFunctional (Basic), an updated version of PrettyFunctional (Regular) will be available at: https://forum.zettelkasten.de/discussion/222/theme-prettyfunctional-regular/"
+        }
+    ],
+    "version": "1.4",
+
+    "editor": {
+        "backgroundColor": "#fafafa",
+        "caretColor": "#0d99fc",
+        "highlight": {
+            "backgroundColor": "#b2d7ff",
+            "unfocusedBackgroundColor": "#d7e7f4"
+        }
+    },
+    
+    "savedSearchesSidebar": {
+        "color": "#fafafa",
+        "border": true,
+        "backgroundColor": "#0d66a5",
+        "highlightedBackgroundColor": "#2b5bee",
+        "iconColors": {
+            "default": "#fafafa"
+        }
+    },
+
+    "resultsList": {
+        "color": "#414141",
+        "backgroundColor": "#fafafa",
+        "alternateBackgroundColor": "#ededed",
+        "selection": {
+            "color": "#fafafa",
+            "backgroundColor": "#2b5bee",
+            "unfocusedColor": "#fafafa",
+            "unfocusedBackgroundColor": "#0d66a5"
+        },
+        "border": true
+    },
+
+    "styles": {
+        "base": {
+            "color": "#414141"
+        },
+
+        "h1": {
+            "font": { "style": "bold" },
+            "color": "#b0251e"
+        },
+        "h2": {
+            "font": {  "style": "bold" },
+            "color": "#bb332e"
+        },
+        "h3": {
+            "font": {  "style": "bold" },
+            "color": "#b23d39"
+        },
+        "h4": {
+            "font": {  "style": "bold" },
+            "color": "#a94745"
+        },
+        "h5": {
+            "font": {  "style": "bold" },
+            "color": "#a94745"
+        },
+        "h6": {
+            "font": {  "style": "bold" },
+            "color": "#a94745"
+        },
+        
+        "horizontalRule": {
+            "color": "#737373"
+        },
+
+        "codeBlock": {
+            "font": { "name": "Monaco", "size": 12 },
+            "color": "#54656a",
+            "backgroundColor": "#f5f5f5"
+        },
+        "inlineCode": {
+            "font": { "name": "Monaco", "size": 12 },
+            "color": "#54656a",
+            "backgroundColor": "#f5f5f5"
+        },
+        "blockquote": {
+            "color": "#826a3b",
+            "backgroundColor": "#f5f5f5"
+        },
+        "list": {
+            "syntax": { "color" : "#414141" }
+        },
+
+        "emphasis": {
+            "font": {  "style": "italic" }
+        },
+        "strong": {
+            "font": {  "style": "bold" }
+        },
+
+        "image": {
+            "color": "#737373"
+        },
+        "link": {
+            "color": "#3266ca"
+        },
+        "referenceDefinition": {
+            "color": "#737373"
+        },
+
+        "comment": {
+            "color": "#c3c3c3",
+            "font": {  "style": "regular" }
+        },
+        
+        "footnote": {
+            "color": "#057a7a"
+        }
+    }
+}

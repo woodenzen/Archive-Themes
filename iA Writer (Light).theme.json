@@ -1,0 +1,116 @@
+{
+    "name": "Writer",
+    "style": "Dark",
+    "author": [
+        {
+            "name": "Lorenzo",
+            "url": "https://trms.me"
+        }
+    ],
+    "version": "1.0",
+
+    "editor": {
+        "backgroundColor": "#F7F7F7",
+        "caretColor": "#16BDEC",
+        "selection": {
+            "backgroundColor": "#C2E8F4",
+            "unfocusedBackgroundColor": "#E5E5E5"
+        },
+        "highlight": {
+            "backgroundColor": "#C2E8F4",
+            "unfocusedBackgroundColor": "#E5E5E5"
+        }
+    },
+    
+    "savedSearchesSidebar": {
+        "color": "#16BDEC",
+        "backgroundColor": "#FCFCFC",
+        "highlightedBackgroundColor": "#F7F7F7",
+        "border": false,
+        "iconColors": {
+            "default": "#16BDEC"
+        }
+    },
+    
+    "resultsList": {
+        "color": "#1A1A1A",
+        "backgroundColor": "#FCFCFC",
+        "alternateBackgroundColor": "#F7F7F7",
+        "selection": {
+            "color": "#1A1A1A",
+            "backgroundColor": "#C2E8F4",
+            "unfocusedColor": "#1A1A1A",
+            "unfocusedBackgroundColor": "#E5E5E5"
+        },
+        "border": "#DBDBDB",
+    },
+
+    "styles": {
+        "base": {
+            "color": "#1A1A1A",
+            "font-family":"iA Writer Quattro V, sans-serif"
+        },
+
+        "h1": {
+            "font": { "style": "bold" }
+        },
+        "h2": {
+            "font": { "style": "bold" }
+        },
+        "h3": {
+            "font": { "style": "bold" }
+        },
+        "h4": {
+            "font": { "style": "bold" }
+        },
+        "h5": {
+            "font": { "style": "bold" }
+        },
+        "h6": {
+            "font": { "style": "bold" }
+        },
+        
+        "horizontalRule": {
+            "color": "#C7C4C2"
+        },
+
+        "codeBlock": {
+            "color": "#8C8C8C"
+        },
+        "inlineCode": {
+            "color": "#8C8C8C"
+        },
+
+        "blockquote": {
+            "color": "#1A1A1A"
+        },
+        "list": {
+            "syntax": { "color" : "#cccccc" }
+        },
+
+        "emphasis": {
+            "font": { "style": "italic" }
+        },
+        "strong": {
+            "font": { "style": "bold" }
+        },
+
+        "image": {
+            "color": "#C7C4C2"
+        },
+        "footnote": {
+            "color": "#C7C4C2"
+        },
+        "link": {
+            "color": "#8C8C8C"
+        },
+        "referenceDefinition": {
+            "color": "#C7C4C2"
+        },
+
+        "comment": {
+            "color": "#C7C4C2",
+            "font": { "style": "regular" }
+        }
+    }
+}
