@@ -9,7 +9,7 @@
             "email": "linux.photo.geek@gmail.com"
        }
     ],
-    "version": "1.3",
+    "version": "1.4",
 
     "editor": {
         "backgroundColor": "#FBFBFB",
@@ -59,15 +59,15 @@
             "color": "#0b0e3d"
         },
         "h1": {
-            "font": { "style": "bold" },
+            "font": { "name": "SFMono-Regular", "size": 25 },
             "color": "#ba2927"
         },
         "h2": {
-            "font": {  "style": "bold" },
+            "font": { "name": "SFMono-Regular", "size": 22 },
             "color": "#26499b"
         },
         "h3": {
-            "font": {  "style": "bold" },
+             "font": { "name": "SFMono-Regular", "size": 18 },
             "color": "#6a2d77"
         },
         "h4": {
@@ -87,14 +87,15 @@
             "color": "#b58900"
         },
     	"codeBlock": {
-            "font": { "name": "Monaco", "size": 14},
-            "color": "#54656a",
+            "font": { "name": "Monaco", "size": 16},
+            "color": "#b58900",
             "backgroundColor": "#EDEDED"
             ,
         },
         "inlineCode": {
-            "font": { "name": "Monaco", "size": 14},
-            "color": "#b58900"
+            "font": { "name": "Monaco", "size": 16},
+            "color": "#b58900",
+            "backgroundColor": "#EDEDED"
         },
         "blockquote": {
             "font": { "style": "italic" },
@@ -116,7 +117,9 @@
             "color": "#737373"
         },
         "link": {
-            "color": "#3d5a99"
+            "color": "#3d5a99",
+            "syntax": { "color" : "#535354" }
+
         },
         "referenceDefinition": {
             "color": "#737373"
