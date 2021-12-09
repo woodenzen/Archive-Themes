@@ -59,11 +59,11 @@
             "color": "#0b0e3d"
         },
         "h1": {
-            "font": { "name": "SFMono-Regular", "size": 25 },
+            "font": { "name": "SFMono-Regular", "size": 22 },
             "color": "#ba2927"
         },
         "h2": {
-            "font": { "name": "SFMono-Regular", "size": 22 },
+            "font": { "name": "SFMono-Regular", "size": 20 },
             "color": "#26499b"
         },
         "h3": {
