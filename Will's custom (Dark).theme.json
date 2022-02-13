@@ -1,0 +1,127 @@
+{
+    "name": "Custom Theme - Will",
+    "style": "Dark",
+    "author": [
+        {
+            "name": "Will Simpson",
+            "url": "http://kestrelcreek.com.com/",
+            "email": "linux.photo.geek@gmail.com",
+            "comment": "Based upon the unique, 'Dark Graphite' Bear app theme. For better results, set The Archive's font to a variable-width font of your choice. For best results, download Apple's San Francisco font (https://developer.apple.com/fonts/) and set The Archive's font to 'SFProText-Regular'. Last updated: February 12, 2022."
+        },
+    ],
+    "version": "1.0",
+    "editor": {
+        "backgroundColor": "#1E2022",
+        "caretColor": "#4AA8FB",
+        "selection": {
+            "backgroundColor": "#535354",
+            "unfocusedBackgroundColor": "#535354"
+        },
+        "highlight": {
+            "backgroundColor": "#4292D2",
+            "unfocusedBackgroundColor": "#4292D2"
+        }
+    },
+    "savedSearchesSidebar": {
+        "color": "#A5A6A6",
+        "backgroundColor": "#2C2D2F",
+        "highlightedBackgroundColor": "#4292D2",
+        "border": false,
+        "iconColors": {
+            "default": "#A5A6A6"
+        }
+    },
+    "resultsList": {
+        "color": "#A5A6A6",
+        "backgroundColor": "#2C2D2F",
+        "alternateBackgroundColor": "#1E2022",
+        "selection": {
+            "color": "#EEEEEE",
+            "unfocusedColor": "#EEEEEE",
+            "backgroundColor": "#4292D2",
+            "unfocusedBackgroundColor": "#426C8E"
+        },
+        "border": "#2C2D2F",
+    },
+    "styles": {
+        "base": {
+            "color": "#DDDDDD",
+        },
+        "h1": {
+            "font": { "name": "SFProText-Medium", "size": 22 },
+            "syntax": { "color" : "#535354" }
+        },
+        "h2": {
+            "font": { "name": "SFProText-Medium", "size": 20 },
+            "syntax": { "color" : "#535354" }
+        },
+        "h3": {
+            "font": { "name": "SFProText-Medium", "size": 18 },
+            "syntax": { "color" : "#535354" }
+        },
+        "h4": {
+            "font": { "style": "bold" },
+            "syntax": { "color" : "#535354" }
+        },
+        "h5": {
+            "font": { "style": "bold" },
+            "syntax": { "color" : "#535354" }
+        },
+        "h6": {
+            "font": { "style": "bold" },
+            "syntax": { "color" : "#535354" }
+        },
+        "horizontalRule": {
+            "color": "#616161",
+            "syntax": { "color" : "#535354" }
+        },
+        "codeBlock": {
+            "font": { "name": "Menlo-Regular", "size": 16 },
+            "color": "#FEFEFE",
+            "backgroundColor": "#2C2D2F",
+        },
+        "inlineCode": {
+            "font": { "name": "Menlo-Regular", "size": 16 },
+            "color": "#FEFEFE",
+            "backgroundColor": "#2C2D2F",
+        },
+        "blockquote": {
+            "syntax": { "color" : "#999999" },
+	    "color": "#999999"
+        },
+        "list": {
+            "syntax": { "color" : "#4AA8FB" }
+        },
+        "emphasis": {
+            "font": { "style": "italic" },
+            "syntax": { "color" : "#FFFFFF" }
+        },
+        "strong": {
+            "color": "#EEEEEE",
+            "backgroundColor": "#426C8E"
+        },
+        "image": {
+            "color": "#BEBEBE",
+            "syntax": { "color" : "#535354" }
+        },
+        "footnote": {
+            "color": "#616161",
+            "syntax": { "color" : "#535354" }
+        },
+        "link": {
+            "color": "#4AA8FB",
+            "syntax": { "color" : "#535354" }
+        },
+        "referenceDefinition": {
+            "color": "#BEBEBE",
+            "syntax": { "color" : "#535354" }
+        },
+        "comment": {
+            "color": "#999999",
+            "font": { "style": "regular" }
+        },
+        "footnote": {
+            "color": "#e5775b"
+        }
+    }
+}
