@@ -7,7 +7,7 @@
             "url": "http://kestrelcreek.com.com/",
             "email": "linux.photo.geek@gmail.com",
             "comment": "Based upon the unique, 'Dark Graphite' Bear app theme. For better results, set The Archive's font to a variable-width font of your choice. For best results, download Apple's San Francisco font (https://developer.apple.com/fonts/) and set The Archive's font to 'SFProText-Regular'. Last updated: February 12, 2022."
-        },
+        }
     ],
     "version": "1.0",
     "editor": {
@@ -41,11 +41,11 @@
             "backgroundColor": "#4292D2",
             "unfocusedBackgroundColor": "#426C8E"
         },
-        "border": "#2C2D2F",
+        "border": "#2C2D2F"
     },
     "styles": {
         "base": {
-            "color": "#DDDDDD",
+            "color": "#DDDDDD"
         },
         "h1": {
             "font": { "name": "SFProText-Medium", "size": 22 },
@@ -78,12 +78,12 @@
         "codeBlock": {
             "font": { "name": "SF-Mono", "size": 16 },
             "color": "#FEFEFE",
-            "backgroundColor": "#4e8bbf",
+            "backgroundColor": "#4e8bbf"
         },
         "inlineCode": {
             "font": { "name": "SF-Mono", "size": 16 },
             "color": "#FEFEFE",
-            "backgroundColor": "#4e8bbf",
+            "backgroundColor": "#4e8bbf"
         },
         "blockquote": {
             "syntax": { "color" : "#999999" },
@@ -119,9 +119,6 @@
         "comment": {
             "color": "#999999",
             "font": { "style": "regular" }
-        },
-        "footnote": {
-            "color": "#e5775b"
         }
     }
 }
