@@ -76,14 +76,14 @@
             "syntax": { "color" : "#535354" }
         },
         "codeBlock": {
-            "font": { "name": "Menlo-Regular", "size": 16 },
+            "font": { "name": "SF-Mono", "size": 16 },
             "color": "#FEFEFE",
-            "backgroundColor": "#2C2D2F",
+            "backgroundColor": "#4e8bbf",
         },
         "inlineCode": {
-            "font": { "name": "Menlo-Regular", "size": 16 },
+            "font": { "name": "SF-Mono", "size": 16 },
             "color": "#FEFEFE",
-            "backgroundColor": "#2C2D2F",
+            "backgroundColor": "#4e8bbf",
         },
         "blockquote": {
             "syntax": { "color" : "#999999" },

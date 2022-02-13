@@ -101,7 +101,7 @@
         },
         "codeBlock": {
             "font": {
-                "name": "Monaco",
+                "name": "SF-Mono",
                 "size": 16
             },
             "color": "#b58900",
@@ -109,7 +109,7 @@
         },
         "inlineCode": {
             "font": {
-                "name": "Monaco",
+                "name": "",
                 "size": 16
             },
             "color": "#b58900",
