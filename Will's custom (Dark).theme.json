@@ -98,7 +98,10 @@
         },
         "strong": {
             "color": "#EEEEEE",
-            "backgroundColor": "#426C8E"
+            "font": {
+                "style": "bold"
+            },
+            "backgroundColor": "#1E2022"
         },
         "image": {
             "color": "#BEBEBE",
