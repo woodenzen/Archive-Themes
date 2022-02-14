@@ -105,16 +105,18 @@
             "syntax": { "color" : "#535354" }
         },
         "footnote": {
-            "color": "#616161",
-            "syntax": { "color" : "#535354" }
+            "color": "#66cccc",
+            "syntax": {
+                "color": "#66cccc"
+            }
         },
         "link": {
-            "color": "#4AA8FB",
-            "syntax": { "color" : "#535354" }
+            "color": "#3c95fa",
+            "syntax": { "color" : "#6b7aff" }
         },
         "referenceDefinition": {
-            "color": "#BEBEBE",
-            "syntax": { "color" : "#535354" }
+            "color": "#66cccc",
+            "syntax": { "color" : "#66cccc" }
         },
         "comment": {
             "color": "#999999",

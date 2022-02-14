@@ -44,9 +44,9 @@
             "color": "#ffffff",
             "backgroundColor": "#515151",
             "unfocusedColor": "#ffffff",
-            "unfocusedBackgroundColor": "#515151",
+            "unfocusedBackgroundColor": "#515151"
         },
-        "border": "#141414",
+        "border": "#141414"
     },
 
 
