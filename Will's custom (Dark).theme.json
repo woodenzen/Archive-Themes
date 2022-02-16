@@ -18,7 +18,8 @@
             "unfocusedBackgroundColor": "#535354"
         },
         "highlight": {
-            "backgroundColor": "#4292D2",
+            "color": "#d8dcdf",
+            "backgroundColor": "#587083",
             "unfocusedBackgroundColor": "#4292D2"
         }
     },
@@ -78,12 +79,12 @@
         "codeBlock": {
             "font": { "name": "SF-Mono", "size": 16 },
             "color": "#FEFEFE",
-            "backgroundColor": "#4e8bbf"
+            "backgroundColor": "#324a59"
         },
         "inlineCode": {
             "font": { "name": "SF-Mono", "size": 16 },
             "color": "#FEFEFE",
-            "backgroundColor": "#4e8bbf"
+            "backgroundColor": "#324a59"
         },
         "blockquote": {
             "syntax": { "color" : "#999999" },
