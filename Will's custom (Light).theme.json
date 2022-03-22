@@ -13,20 +13,20 @@
         "backgroundColor": "#FBFBFB",
         "caretColor": "#DD4C4F",
         "selection": {
-            "color": "#0d66a5",
+            "color": "#e1e1e1",
             "font": {
                 "style": "bold"
             },
-            "backgroundColor": "#DCDCDC",
-            "unfocusedBackgroundColor": "#DCDCDC"
+            "backgroundColor": "#404da5",
+            "unfocusedBackgroundColor": "#404da5"
         },
         "highlight": {
-            "color": "#0d66a5",
+            "color": "#e1e1e1",
             "font": {
-                "style": "bold"
+                "name": "SFMono-Bold"
             },
-            "backgroundColor": "#DCDCDC",
-            "unfocusedBackgroundColor": "#DCDCDC"
+            "backgroundColor": "#404da5",
+            "unfocusedBackgroundColor": "#404da5"
         },
         "invisibles": {
             "color": "#a54c0d"
