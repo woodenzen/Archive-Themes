@@ -1,0 +1,135 @@
+{
+    "name": "Custom Theme - Will",
+    "style": "Light",
+    "author": [
+
+        {
+            "name": "Will Simpson",
+            "url": "http://kestrelcreek.com.com/",
+            "email": "linux.photo.geek@gmail.com"
+       }
+    ],
+    "version": "1.3",
+
+    "editor": {
+        "backgroundColor": "#FBFBFB",
+        "caretColor": "#DD4C4F",
+    "selection" : {
+            "color": "#0d66a5",
+            "font": { "style": "bold" },
+            "backgroundColor": "#DCDCDC",
+            "unfocusedBackgroundColor": "#DCDCDC"
+        },
+        "highlight": {
+            "color": "#0d66a5",
+            "font": { "style": "bold" },
+            "backgroundColor": "#DCDCDC",
+            "unfocusedBackgroundColor": "#DCDCDC"
+        },
+        "invisibles": {
+            "color": "#a54c0d"
+        }
+    },
+
+    "savedSearchesSidebar": {
+        "color": "#fafafa",
+        "border": false,
+        "backgroundColor": "#404da5",
+        "highlightedBackgroundColor": "#2b5bee",
+        "iconColors": {
+            "default": "#fafafa"
+        }
+    },
+
+    "resultsList": {
+        "color": "#414141",
+        "backgroundColor": "#fafafa",
+        "alternateBackgroundColor": "#ededed",
+        "selection": {
+            "color": "#fafafa",
+            "backgroundColor": "#404da5",
+            "unfocusedColor": "#fafafa",
+            "unfocusedBackgroundColor": "#0d66a5"
+        },
+        "border": true
+    },
+
+    "styles": {
+        "base": {
+            "color": "#0b0e3d"
+        },
+        "h1": {
+            "font": { "style": "bold" },
+            "color": "#ba2927"
+        },
+        "h2": {
+            "font": {  "style": "bold" },
+            "color": "#26499b"
+        },
+        "h3": {
+            "font": {  "style": "bold" },
+            "color": "#6a2d77"
+        },
+        "h4": {
+            "font": {  "style": "bold" },
+            "color": "#9b8325"
+        },
+        "h5": {
+            "font": {  "style": "bold" },
+            "color": "#259b58"
+        },
+        "h6": {
+            "font": {  "style": "bold" },
+            "color": "#d65764"
+         },
+
+        "horizontalRule": {
+            "color": "#b58900"
+        },
+    	"codeBlock": {
+            "font": { "name": "Monaco", "size": 14},
+            "color": "#54656a",
+            "backgroundColor": "#EDEDED"
+            ,
+        },
+        "inlineCode": {
+            "font": { "name": "Monaco", "size": 14},
+            "color": "#b58900"
+        },
+        "blockquote": {
+            "font": { "style": "italic" },
+            "indent": { "characters": 3},
+            "color": "#657b83"
+        },
+        "list": {
+            "syntax": { "color" : "#DD4C4F" }
+        },
+
+        "emphasis": {
+            "font": {  "style": "italic" }
+        },
+        "strong": {
+            "font": {  "style": "bold" }
+        },
+
+        "image": {
+            "color": "#737373"
+        },
+        "link": {
+            "color": "#2c4a91"
+        },
+
+        "referenceDefinition": {
+            "color": "#737373"
+        },
+
+        "comment": {
+            "color": "#93a1a1",
+            "font": {  "style": "regular" }
+        },
+
+        "footnote": {
+            "color": "#e5775b"
+        }
+    }
+}
