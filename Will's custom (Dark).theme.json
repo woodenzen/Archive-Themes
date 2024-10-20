@@ -35,6 +35,10 @@
     },
     "resultsList": {
         "color": "#A5A6A6",
+        "font": {
+            "name": "LexendExa-Regular",
+            "size": 18
+        },
         "backgroundColor": "#131a25",
         "alternateBackgroundColor": "#131a25",
         "selection": {
